@@ -149,6 +149,6 @@ static int need_Negative(int flag, int max){
 
 - 看似只是出几道四则运算题，其实其中需要注意的细节也非常多，时间仓促，以后会慢慢改进。
 
-![](https://img2018.cnblogs.com/blog/1791075/201909/1791075-20190912190221906-786664246.gif)
+
 
 
