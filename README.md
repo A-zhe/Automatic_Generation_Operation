@@ -67,8 +67,7 @@
 
 - 测试一：无负数四则运算
 
-<img src="https://img2018.cnblogs.com/blog/1791075/201909/1791075-20190912121230078-286315019.png" width="100%" height="100%" />
-
+![无负数四则运算](https://github.com/A-zhe/Automatic_Generation_Operation/blob/master/pictures/Snipaste_2019-09-29_10-29-47.png)
 - 测试二：有负数二则运算
 
 <img src="https://img2018.cnblogs.com/blog/1791075/201909/1791075-20190912123135671-1907393900.png" width="100%" height="100%" />
