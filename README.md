@@ -139,7 +139,6 @@ static int need_Negative(int flag, int max){
 
 ```
 
-#### 项目源码在gitHub上已发布：[点击进入](https://github.com/A-zhe/Automatic_Generation_Operation/tree/master)
 
 
 
